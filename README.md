@@ -1,3 +1,3 @@
 # KoKoa clone coding
 
-css omg got so much better!
+Html && css omg are so much fun!
